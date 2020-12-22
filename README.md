@@ -1,7 +1,8 @@
 ## Hola, I'm Sirajul islam! 👋
 
-<img align="right" alt="GIF" src="https://github.com/sirajulislamparvez/sirajulislamparvez/blob/master/code.gif?raw=true" width="450" height="300" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirajulislamparvez&label=Views&color=blue&style=plastic" alt="sirajulislamparvez" /> </p>
+<img align="right" alt="GIF" src="https://github.com/itsirajul/itsirajul/blob/main/code.gif?raw=true" width="450" height="300" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=itsirajul&label=Views&color=blue&style=plastic" alt="itsirajul" /> </p>
 
 <a href="https://twitter.com/itsirajul">
   <img align="left" alt="Sirajul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
