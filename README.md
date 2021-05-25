@@ -61,8 +61,9 @@
 <a href="https://github.com/itsirajul">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsirajul&show_icons=true&theme=dracula&line_height=27" alt="Sirajul's github stats"/>
 </a>
-<a href="https://github.com/itsirajul/Programming-Problem-In-Bengali">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsirajul&repo=Programming-Problem-In-Bengali&theme=dark" />
+<a href="https://github.com/itsirajul">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?itsirajul=itsirajul)"/>
+
 
 
 <div align="center">
