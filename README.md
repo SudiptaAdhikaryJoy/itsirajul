@@ -89,8 +89,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsirajul&theme=default&hide_langs_below=1" />
 </a>
 
-
-<div align="left">
+<br>
+<div align="center">
 
 ### My Stackoverflow Stats
 
