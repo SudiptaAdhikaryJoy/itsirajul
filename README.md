@@ -71,8 +71,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
 
-
 <img algin="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsirajul&theme=default" width="48%" alt="Sirajul's github stats"/>
+</a>
+
 <a href="https://github.com/itsirajul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsirajul&theme=default&hide_langs_below=1" />
 </a>
@@ -80,13 +81,14 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=itsirajul&show_icons=true&theme=default&line_height=27" alt="Sirajul's github stats"/>
 </a>
 
+<div align="center">
 
+### My Stackoverflow Stats
 
-
+<a href="https://stackoverflow.com/users/8635855/sirajul-islam"><img src="https://stackoverflow.com/users/flair/8635855.png" width="208" height="58" alt="profile for Sirajul at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sirajul at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
 
 </div>
