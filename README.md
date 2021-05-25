@@ -56,13 +56,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/itsirajul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsirajul&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsirajul&theme=default&hide_langs_below=1" />
 </a>
+
 <a href="https://github.com/itsirajul">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsirajul&show_icons=true&theme=dracula&line_height=27" alt="Sirajul's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsirajul&show_icons=true&theme=default&line_height=27" alt="Sirajul's github stats"/>
 </a>
-<a href="https://github.com/itsirajul">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?itsirajul=itsirajul)"/>
+
 
 
 
