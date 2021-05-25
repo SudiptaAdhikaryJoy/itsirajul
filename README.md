@@ -76,14 +76,14 @@
 ### My Contribution Stats
 <div align="center">
 
-<img algin="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsirajul&theme=default" width="48%" alt="Sirajul's github stats"/>
+<img algin="left" src="https://github-readme-streak-stats.herokuapp.com/?user=itsirajul&theme=default" width="48%" alt="Sirajul's github stats"/>
 </a>
 <a href="https://github.com/itsirajul">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=itsirajul&show_icons=true&theme=default&line_height=27" alt="Sirajul's github stats"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=itsirajul&show_icons=true&theme=default&line_height=27" alt="Sirajul's github stats"/>
 </a>
 <div align="center">
 
-### My Stackoverflow Stats
+### My Language Stats
 
 <a href="https://github.com/itsirajul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsirajul&theme=default&hide_langs_below=1" />
