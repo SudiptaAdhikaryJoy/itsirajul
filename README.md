@@ -1,4 +1,4 @@
-## Hola, I'm Sirajul islam! 👋
+## Hi, I'm Sirajul islam! 👋
 
 <img align="right" alt="GIF" src="https://github.com/itsirajul/itsirajul/blob/main/code.gif?raw=true" width="450" height="300" />
 <p align="left"> 
