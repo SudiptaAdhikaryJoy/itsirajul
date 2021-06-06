@@ -1,4 +1,5 @@
-## Hi, I'm Sirajul islam! 👋
+<h1 align="center">Hi 👋, I'm Sirajul Islam</h1>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsirajul" alt="itsirajul" /></a> </p>
 
 <img align="right" alt="GIF" src="https://github.com/itsirajul/itsirajul/blob/main/code.gif?raw=true" width="450" height="300" />
 <p align="left"> 
